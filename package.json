@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "Peng1203",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/Peng1203/zpnpm"
+  }
 }
